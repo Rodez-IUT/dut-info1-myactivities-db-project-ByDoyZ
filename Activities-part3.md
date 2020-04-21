@@ -128,6 +128,7 @@ Insérez 6 réservations dans votre BD à l'aide des instructions suivantes :
     select * from gds.insert_reservation('2020-04-25 14:00:00','2020-04-25 17:00:00','dalhia');
     select * from gds.insert_reservation('2020-04-22 12:00:00','2020-04-22 14:00:00','dalhia');
 
+
 > fix #7 fonction P3-2-2 fonction insert_reservation 
 
 ### 3. Création de la vue retournant les réservations
